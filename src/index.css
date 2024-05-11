@@ -70,4 +70,7 @@
     .border{
         border: 2px transparent rgb(84, 48, 84);
     }
+    .foot{
+        text-align: center;
+    }
 }

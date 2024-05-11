@@ -90,7 +90,9 @@ const CricketScore = () => {
           </div>
         </div>
       </div>
+      
       </div>
+      <footer className="foot">@ ajay pratik</footer>
     </>
   );
 };
