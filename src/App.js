@@ -1,9 +1,9 @@
-import Counter from "./Counter";
+import CricketScore from "./CricketScore";
 
 function App() {
   return (
   <>
-  <Counter/>
+  <CricketScore/>
   </>
   );
 }
