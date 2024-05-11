@@ -92,7 +92,7 @@ const CricketScore = () => {
       </div>
       
       </div>
-      <footer className="foot">@ ajay pratik</footer>
+      <footer className="foot">@ ajay_pratik</footer>
     </>
   );
 };
