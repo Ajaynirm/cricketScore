@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    background-color: black;
+    color: azure;
+    font-family:'Courier New', Courier, monospace;
+}
+.main-container{
+    display: flex;
+    height: 718px;
+    width:1500px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-title{
+    align-self: center;
+    padding-top: 10px;
+    padding-bottom:50px;
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.display{
+    padding-bottom: 50px;
+    align-self: center;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    .main-container{
+        display: flex;
+        height: 820px;
+        width:390px;
+        justify-content: center;
+        align-items: center;
+        padding-left: 10px;
+        scroll-behavior: smooth;
+        
+    }
+    .container{
+        height: 820px;
+        width:390px;
+    }
+    .display{
+        padding: 0px 0px 40px 5px;
+    }
+    .target{
+       text-align: left;
+        padding: 20px 5px 80px 5px;
+    }
+    .btn{
+        text-align: center;
+        justify-content: center;
+        align-self: center;
+        padding: 1px 1px 20px 1px;
+        
+    }
+    .btn-size{
+        background-color:"black";
+        height: 60px;
+        width: 80px;
+    }
+    .border{
+        border: 2px transparent purple;
+    }
+}
