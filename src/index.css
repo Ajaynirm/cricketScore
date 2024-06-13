@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
+/*{
     background-color: black;
     color: azure;
     font-family:'Courier New', Courier, monospace;
@@ -27,6 +27,30 @@
     padding-bottom: 50px;
     align-self: center;
 }
+*/
+* {
+    background-color: black;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main-title {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .display {
+    padding-bottom: 50px;
+  }
+  .btn-size {
+    min-width: 100px;
+  }
+  .foot {
+    padding-top: 20px;
+  }
 
 
 
