@@ -1,4 +1,6 @@
 !!! building backend have to merged in future.......
+# deployed frontend on vercel
+
 # Project Description:       React app
 The Cricket Score Counter is a web application designed to keep track of cricket match scores in real-time. This project aims to provide an intuitive and user-friendly interface for users to view and update cricket scores, making it accessible for both casual viewers and serious cricket enthusiasts.
 
