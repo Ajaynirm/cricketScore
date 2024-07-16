@@ -1,3 +1,11 @@
+!!! building backend have to merged in future
+Project Description:       React app
+The Cricket Score Counter is a web application designed to keep track of cricket match scores in real-time. This project aims to provide an intuitive and user-friendly interface for users to view and update cricket scores, making it accessible for both casual viewers and serious cricket enthusiasts.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
